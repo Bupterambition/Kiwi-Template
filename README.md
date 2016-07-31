@@ -37,4 +37,4 @@ senmiao, senmiao@mogujie.com
 
 ## License
 
-MGJUnitTest is available under the MIT license. See the LICENSE file for more info.
+Kiwi-Template is available under the MIT license. See the LICENSE file for more info.
