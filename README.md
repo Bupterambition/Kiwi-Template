@@ -7,6 +7,11 @@
 ## Example
 
 用于生成Kiwi测试Case的模版，可以在构建时选择要测试的类 
+<img src="https://github.com/Bupterambition/Kiwi-Template/blob/master/pic1.png?raw=true" width = "400" height = "300" alt="Kiwi" />
+
+<img src="https://github.com/Bupterambition/Kiwi-Template/blob/master/pic2.png?raw=true?raw=true" width = "400" height = "300" alt="Kiwi" />
+
+<img src="https://github.com/Bupterambition/Kiwi-Template/blob/master/pic3.png?raw=true" width = "400" height = "300" alt="Kiwi" />
 
 
 
