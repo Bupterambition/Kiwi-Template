@@ -2,12 +2,13 @@
 
 [![CI Status](http://img.shields.io/travis/senmiao/Kiwi-Template.svg?style=flat)](https://travis-ci.org/senmiao/MGJUnitTest)
 [![Version](https://img.shields.io/cocoapods/v/Kiwi-Template.svg?style=flat)](http://cocoapods.org/pods/MGJUnitTest)
-[![License](https://img.shields.io/cocoapods/l/Kiwi-Template?style=flat)](http://cocoapods.org/pods/MGJUnitTest)
 [![Platform](https://img.shields.io/cocoapods/p/Kiwi-Template.svg?style=flat)](http://cocoapods.org/pods/MGJUnitTest)
 
 ## Example
 
 用于生成Kiwi测试Case的模版，可以在构建时选择要测试的类 
+
+
 
 ## Installation
 
