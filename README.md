@@ -19,7 +19,7 @@
 ## Installation
 推荐使用[Alcatraz](https://github.com/alcatraz/Alcatraz)中搜索[Kiwi-Template](https://github.com/Bupterambition/Kiwi-Template)，即可自行安装
 
-或是您先麻烦的话也可以使用如下方法安装
+或是您嫌麻烦的话也可以使用如下方法安装
 
 
 
