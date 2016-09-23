@@ -6,7 +6,7 @@
 
 ## Example
 
-用于生成Kiwi测试Case的模版，可以在构建时选择要测试的类 
+A template of Kiwi Case that you can choose the class you will test.
 
 <img src="https://github.com/Bupterambition/Kiwi-Template/blob/master/pic1.png?raw=true" width = "400" height = "300" alt="Kiwi" />
 
@@ -17,20 +17,20 @@
 
 
 ## Installation
-推荐使用[Alcatraz](https://github.com/alcatraz/Alcatraz)中搜索[Kiwi-Template](https://github.com/Bupterambition/Kiwi-Template)，即可自行安装
+Recommend using [Alcatraz](https://github.com/alcatraz/Alcatraz) `search` [Kiwi-Template](https://github.com/Bupterambition/Kiwi-Template)，
 
-或是您嫌麻烦的话也可以使用如下方法安装
+or you can install manual below
 
 
 
-打开终端输入sudo sh install-templates.sh
+open the your terminal or iTerm2,then input
 
 ```
 sudo chmod 755 install-templates.sh
 
 sudo sh install-templates.sh 
 ```
-运行完毕后会显示
+then you will see
 
 ```
 Finished
