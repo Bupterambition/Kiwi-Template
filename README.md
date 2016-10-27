@@ -17,7 +17,7 @@ A template of Kiwi Case that you can choose the class you will test.
 
 
 ## Installation
-Recommend using [Alcatraz](https://github.com/alcatraz/Alcatraz) `search` [Kiwi-Template](https://github.com/Bupterambition/Kiwi-Template)，
+~~Recommend using [Alcatraz](https://github.com/alcatraz/Alcatraz) `search` [Kiwi-Template](https://github.com/Bupterambition/Kiwi-Template)~~ ***unfortunate***，
 
 or you can install manual below
 
